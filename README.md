@@ -58,25 +58,6 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, com o objetivo d
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
-  <img 
-      alt="React"
-      title="React" 
-      width="50px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-      alt="Git" 
-      title="Git"
-      width="50px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-</div>
-
-
-
-
 
 ### 📊 Estatísticas
 
