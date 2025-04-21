@@ -58,6 +58,14 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, com o objetivo d
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
+  <img 
+      alt="Azure"
+      title="Azure" 
+      width="50px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+  />
+
 </div>
 
 
