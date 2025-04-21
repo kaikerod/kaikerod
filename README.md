@@ -58,6 +58,11 @@ Sou apaixonado por tecnologia e estou em constante aprendizado, com o objetivo d
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
+</div>
+
+
+
+
 
 ### 📊 Estatísticas
 
