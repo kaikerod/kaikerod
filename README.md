@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kaike Rodrigues
 
-**`Desenvolvedor Iniciante`**
+**`Desenvolvedor`**
 
 Meu nome é Kaike Vinicius Rodrigues de Melo, tenho 20 anos e sou natural de Minas Gerais. Sou formado em Eletroeletrônica pelo SENAI e atualmente curso Engenharia de Software na Estácio.
 
