@@ -55,6 +55,13 @@ Busco aplicar meus conhecimentos técnicos para criar soluções inovadoras e ef
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+  <img 
+      alt="Git" 
+      title="Git"
+      width="50px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
 </div>
 
 ---
