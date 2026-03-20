@@ -5,6 +5,12 @@
 Estudante de Engenharia de Software na Estácio, focado no desenvolvimento Back-End.
 Busco aplicar meus conhecimentos técnicos para criar soluções inovadoras e eficientes.
 
+<div align="center">
+  <a href="https://kaike-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="40" alt="portfolio logo"/>
+  </a>
+</div>
+
 ### 🚀 Atualmente estudando
 
 - Desenvolvimento Web Back-End com Python, API's REST e Libs.
