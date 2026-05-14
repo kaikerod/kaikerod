@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=190&section=header&text=Kaike%20Rodrigues&fontSize=38&fontColor=ECFEFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SaaS%20%7C%20AI%20APIs&descSize=15&descAlignY=58&descColor=CCFBF1" alt="Kaike Rodrigues - Backend Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=190&section=header&text=Kaike%20Rodrigues&fontSize=38&fontColor=EFF6FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SaaS%20%7C%20AI%20APIs&descSize=15&descAlignY=58&descColor=BFDBFE" alt="Kaike Rodrigues - Backend Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Kaike%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kaike-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kaike--portfolio.netlify.app-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-kaike--portfolio.netlify.app-1E3A8A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
   </a>
   <a href="mailto:contato.kaikevinicius@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-contato.kaikevinicius%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
@@ -75,7 +75,7 @@ Tenho experiência prática em projetos como micro SaaS de análise ATS de curr�
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111" alt="Render" />
+  <img src="https://img.shields.io/badge/Render-1E3A8A?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -106,7 +106,7 @@ Micro SaaS para análise de compatibilidade ATS com upload de PDF/DOCX, extraç�
 
 <p>
   <a href="https://github.com/kaikerod/Parserly" target="_blank">
-    <img src="https://img.shields.io/badge/Repositorio-Parserly-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Parserly" />
+    <img src="https://img.shields.io/badge/Repositorio-Parserly-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Parserly" />
   </a>
 </p>
 
@@ -119,7 +119,7 @@ API REST de auditoria fiscal para registro de uploads, detecção de anomalias e
 
 <p>
   <a href="https://github.com/kaikerod/Doc-Audit" target="_blank">
-    <img src="https://img.shields.io/badge/Repositorio-DocAudit-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="DocAudit" />
+    <img src="https://img.shields.io/badge/Repositorio-DocAudit-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="DocAudit" />
   </a>
 </p>
 
@@ -132,7 +132,7 @@ Dashboard full-stack para análise de faturamento, ticket médio e KPIs comercia
 
 <p>
   <a href="https://github.com/kaikerod/sales-dash" target="_blank">
-    <img src="https://img.shields.io/badge/Repositorio-Sales%20Dash%20PRO-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Sales Dash PRO" />
+    <img src="https://img.shields.io/badge/Repositorio-Sales%20Dash%20PRO-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Sales Dash PRO" />
   </a>
 </p>
 
@@ -169,10 +169,10 @@ Dashboard full-stack para análise de faturamento, ticket médio e KPIs comercia
     <img src="https://img.shields.io/badge/GitHub-kaikerod-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://kaike-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kaike--portfolio.netlify.app-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfolio-kaike--portfolio.netlify.app-1E3A8A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" alt="footer" width="100%" />
 </p>
