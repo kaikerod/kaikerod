@@ -141,8 +141,17 @@ Dashboard full-stack para análise de faturamento, ticket médio e KPIs comercia
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaikerod&show_icons=true&theme=tokyonight&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=E5E7EB&bg_color=0F172A" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikerod&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=5EEAD4&text_color=E5E7EB&bg_color=0F172A" alt="Linguagens mais usadas" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaikerod&theme=github_dark" alt="Resumo do perfil GitHub" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaikerod&theme=github_dark" alt="Repositórios por linguagem" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaikerod&theme=github_dark" alt="Linguagens por commit" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaikerod&theme=github_dark" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaikerod&theme=github_dark&utcOffset=-3" alt="Horário produtivo" height="180" />
 </p>
 
 ---
