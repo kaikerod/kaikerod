@@ -26,7 +26,7 @@ Tenho experiência prática em projetos como micro SaaS de análise ATS de curr�
 - Produtos SaaS com autenticação Magic Link, quotas, paywall PIX, webhooks e controle de sessão.
 - Integrações com OpenRouter, Claude, Gemini, Resend e Mercado Pago.
 - Processamento de documentos, validação JSON, exportação CSV/Excel e dashboards com Chart.js.
-- Base sólida em troubleshooting, Docker, Git/GitHub e deploy em Render, Vercel e Railway.
+- Base sólida em troubleshooting, Docker, Git/GitHub e deploy em Render e Vercel.
 
 ---
 
@@ -77,7 +77,6 @@ Tenho experiência prática em projetos como micro SaaS de análise ATS de curr�
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Render-1E3A8A?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
