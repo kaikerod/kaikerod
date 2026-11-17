@@ -25,32 +25,29 @@
     </a>
   </p>
 
+  <!-- Pixel Art Coding Scene -->
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Pixel Art Coding Scene" />
+  </p>
+
 </div>
 
 ---
 
-### 🎮 Player Character Sheet
-
-```text
-╭────────────────────────────────────────────────────────────────────────╮
-│  👾 PLAYER STATS                                                       │
-│  Name        : Kaike Rodrigues                                         │
-│  Class       : Backend Architect & Systems Sorcerer 🧙‍♂️                 │
-│  Specialty   : Async APIs, Micro SaaS, AI Pipelines & Automation       │
-│  HP          : [████████████████████] 100% (Coffee Powered ☕)         │
-│  MP          : [██████████████████░░]  94% (Clean Code Mana ✨)        │
-│  Location    : Brazil 🇧🇷                                               │
-│  Status      : Online & Leveling Up ⚡                                 │
-│  Main Quest  : Building high-performance SaaS & intelligent systems    │
-╰────────────────────────────────────────────────────────────────────────╯
-```
-
----
-
-### 🕹️ Pixel Art Stats Display
+### 🕹️ Pixel Art Stats & Profile Display
 
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/about-light.svg" width="400" alt="About Kaike Rodrigues">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/streaks-light.svg" width="400" alt="Streaks">
+</picture>
+</p>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/summary-dark.svg">

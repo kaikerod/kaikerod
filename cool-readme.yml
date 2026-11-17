@@ -2,6 +2,8 @@
 user: kaikerod
 
 show:
+  - about
+  - streaks
   - summary
   - languages
   - contributions
@@ -17,3 +19,30 @@ look:
   animations: true       # Pure CSS SVG animations
   background: 0d1117     # Dark retro panel (matches GitHub dark background)
   border: false
+
+cards:
+  about:
+    title: "About Me"
+    headline: "Hi, I'm *Kaike Rodrigues*!"
+    lines:
+      - "Backend Developer & Software Engineering Student"
+      - "Building micro SaaS, async APIs & AI integrations"
+    facts:
+      Stack: "Python, FastAPI, Postgres, Redis"
+      SaaS: "Parserly & Doc-Audit"
+      Location: "Brazil 🇧🇷"
+  streaks:
+    title: "Streaks"
+  summary:
+    title: "GitHub Stats"
+    ring: percent
+  languages:
+    title: "Most Used Languages"
+    count: 6
+    other: true
+  contributions:
+    title: "Notable Contributions"
+    count: 6
+    open: true
+  weekly:
+    title: "Weekly Rhythm"
