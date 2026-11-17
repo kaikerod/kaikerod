@@ -1,9 +1,19 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: kaikerod
+
+show:
+  - summary
+  - languages
+  - contributions
+  - weekly
+
 count:
   private: true
   orgs: true
+
 look:
-  style: oled
-  color: github
-  background: none
+  style: oled            # oled = square pixels (Pixel Art style!), dotmatrix = round LEDs (arcade pinball)
+  color: cyan            # cyan, green, amber, purple, red, blue, or github
+  animations: true       # Pure CSS SVG animations
+  background: 0d1117     # Dark retro panel (matches GitHub dark background)
+  border: false
