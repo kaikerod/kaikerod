@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: kaikerod
+count:
+  private: true
+  orgs: true
+look:
+  style: oled
+  color: github
+  background: none
