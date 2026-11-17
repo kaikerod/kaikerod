@@ -175,3 +175,27 @@ Dashboard full-stack para análise de faturamento, ticket médio e KPIs comercia
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer" alt="footer" width="100%" />
 </p>
+
+<!-- cool-readme:start -->
+<!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/kaikerod/kaikerod/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
+</p>
+<!-- cool-readme:end -->
